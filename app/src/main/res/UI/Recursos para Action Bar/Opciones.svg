@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="65" height="65" viewBox="0 0 65 65">
+  <defs>
+    <filter id="Boton" x="0" y="0" width="65" height="65" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Opciones" transform="translate(2.5 2.5)">
+    <g transform="matrix(1, 0, 0, 1, -2.5, -2.5)" filter="url(#Boton)">
+      <rect id="Boton-2" data-name="Boton" width="50" height="50" rx="10" transform="translate(7.5 7.5)" fill="#fff"/>
+    </g>
+    <g id="Triki">
+      <rect id="Rectángulo_3" data-name="Rectángulo 3" width="30" height="4" rx="2" transform="translate(15 37)" fill="#b0b0b0"/>
+      <rect id="Rectángulo_2" data-name="Rectángulo 2" width="30" height="4" rx="2" transform="translate(15 28)" fill="#b0b0b0"/>
+      <rect id="Rectángulo_1" data-name="Rectángulo 1" width="30" height="4" rx="2" transform="translate(15 19)" fill="#b0b0b0"/>
+    </g>
+  </g>
+</svg>

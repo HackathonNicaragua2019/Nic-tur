@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="75" viewBox="0 0 375 75">
+  <defs>
+    <filter id="Action_Bar" x="0" y="0" width="375" height="75" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Action_Bar)">
+    <rect id="Action_Bar-2" data-name="Action Bar" width="360" height="60" transform="translate(7.5 2.5)" fill="#fff"/>
+  </g>
+</svg>

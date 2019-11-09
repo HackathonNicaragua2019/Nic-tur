@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Nictur</string>
+    <string name="sitios_leon">sitios de León</string>
+    <string name="hoteles">Hoteles</string>
+    <string name="restaurantes">Restaurantes</string>
+    <string name="parques">Parques</string>
+    <string name="sitios_turisticos">Sitios Turisticos</string>
+    <string name="museos">Museos</string>
+    <string name="iglesias">Iglesias</string>
+    <string name="historia">Historia</string>
+    <string name="historia_leon">Esta será la Historia de León</string>
+    <string name="cerrar_sesion">Cerrar Sesion</string>
 </resources>
