@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ruinas">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="16dp" />
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="@string/ruinas_de_le_n_ruinas_de_le_n_viejo"
+                android:textSize="24sp"
+                app:autoSizeTextType="uniform" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="16dp" />
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="@string/ruinas_de_le_n_viejo_tambi_n_llamado_le_n_viejo_es_el_lugar_donde_originalmente_se_fund_la_ciudad_de_le_n_ubicado_en_la_comarca_de_puerto_momotombo_puerto_lacustre_en_el_lago_de_managua_municipio_de_la_paz_centro_departamento_de_le_n_localizado_en_nicaragua_centroam_rica_por_los_constantes_sismos_causados_por_el_volc_n_momotombo_y_dificultades_socio_econ_micas_sus_pobladores_luego_de_un_cabildo_decidieron_abandonarla_para_asentarla_en_otro_sitio_cercano_al_pueblo_ind_gena_de_sutiaba_hoy_santiago_de_los_caballeros_de_le_n_las_ruinas_de_le_n_viejo_fueron_descubiertas_el_22_de_abril_de_1931_por_don_luis_cuadra_cea" />
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="16dp" />
+
+            <TextView
+                android:id="@+id/textView11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="@string/horario_de_atenci_n"/>
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="16dp" />
+
+            <TextView
+                android:id="@+id/textView12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center|center_vertical"
+                android:text="@string/diariamente_8_00_am_5_00_pm" />
+
+            <ImageView
+                android:id="@+id/imageView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="null"
+                app:srcCompat="@drawable/ruinas_2" />
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -10,4 +10,37 @@
     <string name="historia">Historia</string>
     <string name="historia_leon">Esta será la Historia de León</string>
     <string name="cerrar_sesion">Cerrar Sesion</string>
+    <string name="title_activity_menudesp">menudesp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Usuario</string>
+    <string name="nav_header_subtitle">usuario@correo.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="elige_un_destino">¡Elige Un Destino!</string>
+    <string name="le_n">León</string>
+    <string name="leon">León es una ciudad y municipio de Nicaragua, cabecera departamental del departamento homónimo, se localiza aproximadamente 90 kilómetros al noreste de la ciudad de Managua, Capital del país centroamericano. León ha sido la sede intelectual de la nación, con una universidad fundada en 1812. También es un importante centro agrícola y de comercio de Nicaragua. Hasta el nombramiento de Managua como capital de Nicaragua, León rivalizó con Granada para dicha representatividad.</string>
+    <string name="history">Historia</string>
+    <string name="histo">La ciudad de León fue la primera ciudad fundada en lo que hoy es Nicaragua el año 1524 por Francisco Hernández de Córdoba, en un sitio que los indígenas llamaban Nagarando".​ Estaba situada en medio de la Provincia de Imabite, en un terreno llano al lado del lago Xolotlán y frente al volcán Momotombo. Esta ubicación dista unos 30 km de la actual ciudad de León y es conocida como León Viejo, cuyas ruinas se han convertido en atractivo turístico. Se optó por el traslado de la ciudad a un nuevo emplazamiento junto al antiguo poblado indígena de Sutiaba a raíz de un terremoto y de la erupción del volcán en 1610.
+
+Fue cabecera de la Intendencia de León, establecida en 1786, y de la Provincia de Nicaragua y Costa Rica, que existió de 1812 a 1814 y de 1820 a 1821.
+
+En la ciudad de León, después de recibir el Acta de Independencia, se firmaron el Acta de los Nublados, y la de independencia absoluta de Nicaragua y Costa Rica de la Monarquía Española, el 11 de octubre de 1821. Posteriormente fue capital del Estado de Nicaragua, y al retirarse Nicaragua de la Federación centroamericana en 1838, se mantuvo como capital de Nicaragua, aunque durante algunos años, la capital cambió frecuentemente entre León y Granada (su rival histórico desde un punto de vista socio político) según el partido en el poder. Esta situación se resolvió cuando se escogió una tercera ciudad, Managua, como capital del país en 1858.</string>
+    <string name="extensi_n_territorial_591_07_km">Extensión Territorial:\nt591.07 km²</string>
+    <string name="lion">Escudo de León</string>
+    <string name="ruinas_de_le_n_viejo">Ruinas de León viejo</string>
+    <string name="ruinas_de_le_n_ruinas_de_le_n_viejo">Ruinas de León Ruinas de León Viejo</string>
+    <string name="ruinas_de_le_n_viejo_tambi_n_llamado_le_n_viejo_es_el_lugar_donde_originalmente_se_fund_la_ciudad_de_le_n_ubicado_en_la_comarca_de_puerto_momotombo_puerto_lacustre_en_el_lago_de_managua_municipio_de_la_paz_centro_departamento_de_le_n_localizado_en_nicaragua_centroam_rica_por_los_constantes_sismos_causados_por_el_volc_n_momotombo_y_dificultades_socio_econ_micas_sus_pobladores_luego_de_un_cabildo_decidieron_abandonarla_para_asentarla_en_otro_sitio_cercano_al_pueblo_ind_gena_de_sutiaba_hoy_santiago_de_los_caballeros_de_le_n_las_ruinas_de_le_n_viejo_fueron_descubiertas_el_22_de_abril_de_1931_por_don_luis_cuadra_cea">Ruinas de León Viejo, también llamado León Viejo es el lugar donde originalmente se fundó la ciudad de León ubicado en la comarca de Puerto Momotombo (puerto lacustre en el lago de Managua), municipio de La Paz Centro, departamento de León, localizado en Nicaragua, Centroamérica. Por los constantes sismos causados por el volcán Momotombo y dificultades socio económicas, sus pobladores luego de un cabildo, decidieron abandonarla para asentarla en otro sitio cercano al pueblo indígena de Sutiaba, hoy Santiago de los Caballeros de León. Las ruinas de León Viejo fueron descubiertas el 22 de abril de 1931 por don Luis Cuadra Cea.</string>
+    <string name="horario_de_atenci_n">Horario de Atención</string>
+    <string name="diariamente_8_00_am_5_00_pm">Diariamente: \
+        8:00 am - 5:00 pm</string>
+    <string name="centro_de_arte_fundaci_n_ortiz_gurdian">Centro de arte Fundación Ortiz Gurdian</string>
+
 </resources>
